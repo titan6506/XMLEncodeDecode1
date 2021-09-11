@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="source.DVD" id="DVD0">
+  <void property="movie">
+   <void method="add">
+    <object class="source.Movie">
+     <void property="cast">
+      <string>Matt Damon, Franka potente</string>
+     </void>
+     <void property="directors">
+      <string>Doung Liman </string>
+     </void>
+     <void property="name">
+      <string>The Bourne Identity</string>
+     </void>
+     <void property="released">
+      <int>2002</int>
+     </void>
+     <void property="runtime">
+      <int>119</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="source.Movie">
+     <void property="cast">
+      <string>Matt Damon, Franka potente, Joan Allen</string>
+     </void>
+     <void property="directors">
+      <string>paul Greengrass </string>
+     </void>
+     <void property="name">
+      <string>The Bourne supermacy</string>
+     </void>
+     <void property="released">
+      <int>2004</int>
+     </void>
+     <void property="runtime">
+      <int>108</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="source.Movie">
+     <void property="cast">
+      <string>Matt Damon, Edgar Ramirez, Joan Allen</string>
+     </void>
+     <void property="directors">
+      <string> paul Greengrass</string>
+     </void>
+     <void property="name">
+      <string>The Bourne ultimatum</string>
+     </void>
+     <void property="released">
+      <int>2007</int>
+     </void>
+     <void property="runtime">
+      <int>115</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
